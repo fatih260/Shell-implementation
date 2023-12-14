@@ -1,0 +1,3 @@
+fsl ls
+fat python3 test.py
+gh fat >>> a.txt &
